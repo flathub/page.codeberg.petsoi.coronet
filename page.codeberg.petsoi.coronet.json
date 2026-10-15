@@ -24,13 +24,8 @@
                 {
                     "type": "git",
                     "url": "https://codeberg.org/petsoi/coronet.git",
-<<<<<<< Updated upstream
-                    "tag": "v0.7.1",
-                    "commit": "c543b766b9db39411e44449f3d14eb43ab85c621"
-=======
                     "tag": "v0.8.0",
                     "commit": "23a30d97f1c8616040dc8e54ed154ea8ce944655"
->>>>>>> Stashed changes
                 },
                 "cargo-sources.json",
                 {
