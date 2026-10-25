@@ -24,8 +24,8 @@
                 {
                     "type": "git",
                     "url": "https://codeberg.org/petsoi/coronet.git",
-                    "tag": "v0.8.0",
-                    "commit": "23a30d97f1c8616040dc8e54ed154ea8ce944655"
+                    "tag": "v0.8.1",
+                    "commit": "b48b321c8a27b18eb74a7d434de3bccbe45b8cdf"
                 },
                 "cargo-sources.json",
                 {
